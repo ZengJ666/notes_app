@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.background {
+  background-color: lightgrey;
+}
+
+.navbar {
+  background-color: white;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-end;
+  align-items: center;
+}
+
+.preview {
+  font-size: 12px;
+  margin: 0;
+}
+
+.btn {
+  background-color: lightgrey;
+}
